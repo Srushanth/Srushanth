@@ -8,4 +8,4 @@
 - 💬 Ask me about Machine Learning, Computer Vision, Industrial IoT
 - 📫 How to reach me: SrushanthBaride@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am a freelancer!
+- ⚡ Fun fact: I am a Microsoft certified AI-ML Engineer and a freelancer!
