@@ -1,11 +1,12 @@
 ### Hi there 👋
 
+I'm `Srushanth Baride`, a passionate problem solver leveraging `Machine Learning` to tackle industry challenges.
 
-- 🔭 I’m currently working on solve industry problems using Machine Learning
-- 🌱 I’m currently learning Generative AI
-- 👯 I’m looking to collaborate on cool Machine Learning projects
-- 🤔 I’m looking for help with Generative AI
-- 💬 Ask me about Machine Learning, Computer Vision, Industrial IoT
-- 📫 How to reach me: Srushanth.Baride@gmail.com
+- 🔭 I’m currently working on solving industry problems using `Machine Learning`, particularly delving into `Generative AI` with `llama-index`.
+- 🌱 I’m continuously expanding my knowledge in `Generative AI`, exploring its applications and pushing the boundaries of what's possible.
+- 👯 I’m enthusiastic about collaborating on innovative `Machine Learning` projects that drive real-world impact.
+- 🤔 I’m always open to learning and seeking assistance in the realm of `Generative AI`. Let's exchange ideas and insights!
+- 💬 Ask me anything about `Machine Learning`, `Computer Vision`, or `Industrial IoT`, and I'll be happy to share my expertise.
+- 📫 You can reach me at `Srushanth.Baride@gmail.com`. Feel free to connect or discuss potential collaborations!
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am a Microsoft certified AI-ML Engineer and a freelancer!
+- ⚡ Fun fact: Besides being a `Microsoft certified AI-ML Engineer`, I also freelance, bringing diverse perspectives to my projects and endeavors!
