@@ -12,3 +12,16 @@ I'm `Srushanth Baride`, a passionate problem solver leveraging `Machine Learning
 - ⚡ Fun fact: Besides being a `Microsoft certified AI-ML Engineer`, I also freelance, bringing diverse perspectives to my projects and endeavors!
 - 🌐 Visit my [LinkedIn](https://www.linkedin.com/in/srushanthbaride/) for more professional updates and connections.
 - 🐦 Connect with me on [Twitter](https://twitter.com/SrushanthBaride) for insights and discussions on AI and machine learning.
+- 📈 Total contributions this year:
+<span id="total-contributions"></span>
+
+<script>
+  fetch('https://api.github.com/users/Srushanth/repos?per_page=100')
+    .then(response => response.json())
+    .then(data => {
+      const contributions = data.reduce((acc, repo) => acc + repo.stargazers_count, 0);
+      document.getElementById('total-contributions').innerText = contributions;
+    })
+    .catch(error => console.error('Error fetching contributions:', error));
+</script>
+
