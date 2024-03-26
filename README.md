@@ -14,17 +14,3 @@ I'm `Srushanth Baride`, a passionate problem solver leveraging `Machine Learning
 - 🐦 Connect with me on [Twitter](https://twitter.com/SrushanthBaride) for insights and discussions on AI and machine learning.
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Srushanth&theme=transparent)
-
-</p>
-
-<div align="center">
-    <img src="https://eney6oltpbr3kt.m.pipedream.net/" alt="Most Active GitHub User in Algeria Rank"> 
-    <a href="https://wakatime.com/@d6d361fc-4abd-4305-b82f-15977e27deed">
-      <img src="https://wakatime.com/badge/user/d6d361fc-4abd-4305-b82f-15977e27deed.svg" alt="Total time coded since Dec 25 2022" />
-    </a>
-    <a href="https://github.com/Srushanth/GitHubLineCounter">
-      <img src="https://raw.githubusercontent.com/Srushanth/GitHubLineCounter/main/badges/total_lines.svg" alt="Total Lines of Code (GitHub Repos)" />
-    </a>
-    <br>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=Srushanth&format=true" alt="Srushanth Visitors">
-</div><br>
