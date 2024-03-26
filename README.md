@@ -15,13 +15,8 @@ I'm `Srushanth Baride`, a passionate problem solver leveraging `Machine Learning
 - 📈 Total contributions this year:
 <span id="total-contributions"></span>
 
-<script>
-  fetch('https://api.github.com/users/Srushanth/repos?per_page=100')
-    .then(response => response.json())
-    .then(data => {
-      const contributions = data.reduce((acc, repo) => acc + repo.stargazers_count, 0);
-      document.getElementById('total-contributions').innerText = contributions;
-    })
-    .catch(error => console.error('Error fetching contributions:', error));
-</script>
+# 📊 GitHub Stats:
+![Srushanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Srushanth)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Srushanth&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Srushanth&layout=donut)
 
