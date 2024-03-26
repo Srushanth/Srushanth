@@ -13,5 +13,4 @@ I'm `Srushanth Baride`, a passionate problem solver leveraging `Machine Learning
 - 🌐 Visit my [LinkedIn](https://www.linkedin.com/in/srushanthbaride/) for more professional updates and connections.
 - 🐦 Connect with me on [Twitter](https://twitter.com/SrushanthBaride) for insights and discussions on AI and machine learning.
 
-# 📊 GitHub Stats:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Srushanth&theme=transparent)
