@@ -21,4 +21,3 @@ I'm `Srushanth Baride`, an AI-ML Engineer with a robust 6-year trajectory in the
 - **Infrastructure and Deployment**: Docker, Terraform, Git, Kubernetes
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Srushanth&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Srushanth)](https://github.com/Srushanth/github-readme-stats)
