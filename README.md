@@ -9,7 +9,7 @@
 
 ---
 
-I am an **AI/ML Engineer with 7 years of experience** specializing in MLOps, LLMOps, and scalable data science infrastructure. Currently driving AI innovation as a **Manager at EY**, I have a strong track record of transitioning complex machine learning models from experimental research into highly efficient, production-grade cloud deployments.
+I am an **AI/ML Engineer with 9 years of experience** specializing in MLOps, LLMOps, and scalable data science infrastructure. Currently driving AI innovation as a **Manager at EY**, I have a strong track record of transitioning complex machine learning models from experimental research into highly efficient, production-grade cloud deployments.
 
 ### 🚀 Core Expertise
 - **Generative AI & LLMs:** Architecting Retrieval-Augmented Generation (RAG) systems, integrating traditional ML with LLM platforms, and fine-tuning models (HuggingFace, Llama-Index).
