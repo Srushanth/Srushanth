@@ -1,7 +1,12 @@
 <div align="center">
-  <h1>Hi there, I'm Srushanth Baride 👋</h1>
-  <h3>Manager @ EY | AI-ML & LLMOps Engineer</h3>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header&text=Srushanth%20Baride&fontSize=40&animation=fadeIn&fontAlignY=45" alt="Header Banner" />
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0077B5&center=true&vCenter=true&width=500&height=50&lines=Manager+%40+EY;AI-ML+%26+LLMOps+Engineer;GenAI+Solutions+Architect" alt="Typing SVG" />
+  </a>
   
+  <br/>
+
   <a href="https://www.linkedin.com/in/srushanthbaride/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://gen-lang-client-0570044087-8ff3f.web.app/"><img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:Srushanth.Baride@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -46,4 +51,8 @@ I am an **AI/ML Engineer with 9 years of experience** specializing in MLOps, LLM
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Srushanth&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Srushanth's GitHub Stats" width="45%" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Srushanth&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+  
+  <br/><br/>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Srushanth&theme=github-dark-neon" alt="Activity Graph" width="95%" />
 </div>
